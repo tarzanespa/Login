@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\127408\\source\\repos\\Login\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{393DF814-8BFD-426B-A3D7-F41839AABEC7}|Login\\Login.csproj|c:\\users\\127408\\source\\repos\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393DF814-8BFD-426B-A3D7-F41839AABEC7}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393DF814-8BFD-426B-A3D7-F41839AABEC7}|Login\\Login.csproj|c:\\users\\127408\\source\\repos\\login\\login\\criar_conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393DF814-8BFD-426B-A3D7-F41839AABEC7}|Login\\Login.csproj|solutionrelative:login\\criar_conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{393DF814-8BFD-426B-A3D7-F41839AABEC7}|Login\\Login.csproj|c:\\users\\127408\\source\\repos\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{393DF814-8BFD-426B-A3D7-F41839AABEC7}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Criar_conta.cs",
+              "DocumentMoniker": "C:\\Users\\127408\\source\\repos\\Login\\Login\\Criar_conta.cs",
+              "RelativeDocumentMoniker": "Login\\Criar_conta.cs",
+              "ToolTip": "C:\\Users\\127408\\source\\repos\\Login\\Login\\Criar_conta.cs",
+              "RelativeToolTip": "Login\\Criar_conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:05:51.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\127408\\source\\repos\\Login\\Login\\Form1.cs",
               "RelativeDocumentMoniker": "Login\\Form1.cs",
@@ -27,6 +48,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T15:51:08.784Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\127408\\source\\repos\\Login\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "C:\\Users\\127408\\source\\repos\\Login\\Login\\Form1.cs",
+              "RelativeToolTip": "Login\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:08:01.499Z",
+              "EditorCaption": ""
             }
           ]
         }
